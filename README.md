@@ -2,7 +2,7 @@
 
 ***You can Install and test latest TicTacToe app from below 👇***
 
-[![TicTacToe App](https://img.shields.io/badge/TicTacToe❎0️⃣-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/abhishektiwari444/NotesApp/blob/master/app-debug.apk)
+[![TicTacToe App](https://img.shields.io/badge/TicTacToe❎0️⃣-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/abhishektiwari444/TicTacToe/blob/master/TicTacToe.apk)
 
 ## About
 
