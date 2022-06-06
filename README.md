@@ -12,8 +12,8 @@ I have build a Tic-Tac-Toe Simple Game in Kotlin.
 
 ## ScreenShots
 
-<img src="https://user-images.githubusercontent.com/42689087/172084718-ca93b4dd-deb9-4592-b047-3b16b3d100ed.png" width="330"/> <img src="https://user-images.githubusercontent.com/42689087/172084863-65d2d728-cf58-4cb5-908a-458d653ab7c8.png" width="330"/>
-<img src="https://user-images.githubusercontent.com/42689087/172085027-059fd312-b112-4956-8747-d98d2a3c44a8.png" width="330"/> 
+<img src="https://user-images.githubusercontent.com/42689087/172084718-ca93b4dd-deb9-4592-b047-3b16b3d100ed.png" width="270"/> <img src="https://user-images.githubusercontent.com/42689087/172084863-65d2d728-cf58-4cb5-908a-458d653ab7c8.png" width="270"/>
+<img src="https://user-images.githubusercontent.com/42689087/172085027-059fd312-b112-4956-8747-d98d2a3c44a8.png" width="270"/> 
 
 
 ## Built With 🛠
